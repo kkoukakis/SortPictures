@@ -1,0 +1,1 @@
+exec fish ./sort_pictures.fish
